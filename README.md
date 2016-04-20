@@ -1,5 +1,5 @@
 # BlogEngine
-This repo contains an extremely lightweight blogging engine, which was developed in prepreation for use in areas with slow data connections and limited data caps such as Eastern Africa.
+This repo contains an extremely lightweight blogging engine, which was developed in prepreation for use in areas with slow network connections and limited data caps. It was developed in situ in Mozambique during the latter parts of 2015.
 
 In order to minimize data transfer to clients the engine preforms as much work as possible on the server. To this end the platform uses no javascript at all. All the while still supporting a modern design reminiscent of a typical heavyweight blogging engine, and a (relatively) responsive comment system.
 
